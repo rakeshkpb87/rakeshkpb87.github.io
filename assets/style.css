@@ -86,3 +86,9 @@ footer {
   color: white;
 }
 
+.cv-download {
+  display: inline-block;
+  margin-top: 8px;   /* controls gap precisely */
+}
+
+
