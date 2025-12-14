@@ -91,25 +91,3 @@ footer {
   margin-top: 8px;   /* controls gap precisely */
 }
 
-.contact-top {
-  position: absolute;
-  top: 15px;
-  left: 20px;
-  font-size: 0.9em;
-}
-
-.contact-top img {
-  width: 18px;
-  vertical-align: middle;
-  margin-right: 6px;
-}
-
-.contact-top a {
-  text-decoration: none;
-  color: #333;
-}
-
-.contact-top a:hover {
-  text-decoration: underline;
-}
-
